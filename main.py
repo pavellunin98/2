@@ -1,8 +1,8 @@
-name = 'Pavel'
-print(name)
-age = 25
-print(age)
-new_age = age + 1
-print(new_age)
-is_student = type
-print(is_student)
+completed_tasks = 12
+humber_of_hours = 1.5
+course_name = 'Python'
+time_for_one_task = completed_tasks/humber_of_hours
+print(completed_tasks)
+print(humber_of_hours)
+print(course_name)
+print(time_for_one_task)
